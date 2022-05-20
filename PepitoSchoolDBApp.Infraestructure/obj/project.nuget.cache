@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vlwngsNFQXT/YPE7rZye8nDkqvchXHup+eG/K/isWmrH+JuDsb/QZHstrdgTj9XTL157lg4scQJkKHwP4vlumg==",
+  "dgSpecHash": "qHB3mSb+SBr9jhfE8LgE5xN1uelwMfouCl1XXOzAuGM7d8l0rHSl4+h/vqUSzw8Nr3PpSy+E0i+N9NZo57++1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp.Infraestructure\\PepitoSchoolDBApp.Infraestructure.csproj",
+  "projectFilePath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\clonacion sistematico 4\\Sistematico4\\PepitoSchoolDBApp.Infraestructure\\PepitoSchoolDBApp.Infraestructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sanro\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\sanro\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

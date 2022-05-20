@@ -6520,11 +6520,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp\\PepitoSchoolDBApp.csproj",
+      "projectUniqueName": "C:\\Users\\sanro\\OneDrive\\Escritorio\\clonacion sistematico 4\\Sistematico4\\PepitoSchoolDBApp\\PepitoSchoolDBApp.csproj",
       "projectName": "PepitoSchoolDBApp",
-      "projectPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp\\PepitoSchoolDBApp.csproj",
+      "projectPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\clonacion sistematico 4\\Sistematico4\\PepitoSchoolDBApp\\PepitoSchoolDBApp.csproj",
       "packagesPath": "C:\\Users\\sanro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp\\obj\\",
+      "outputPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\clonacion sistematico 4\\Sistematico4\\PepitoSchoolDBApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sanro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6541,11 +6541,11 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp.AppCore\\PepitoSchoolDBApp.AppCore.csproj": {
-              "projectPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp.AppCore\\PepitoSchoolDBApp.AppCore.csproj"
+            "C:\\Users\\sanro\\OneDrive\\Escritorio\\clonacion sistematico 4\\Sistematico4\\PepitoSchoolDBApp.AppCore\\PepitoSchoolDBApp.AppCore.csproj": {
+              "projectPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\clonacion sistematico 4\\Sistematico4\\PepitoSchoolDBApp.AppCore\\PepitoSchoolDBApp.AppCore.csproj"
             },
-            "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp.Infraestructure\\PepitoSchoolDBApp.Infraestructure.csproj": {
-              "projectPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp.Infraestructure\\PepitoSchoolDBApp.Infraestructure.csproj"
+            "C:\\Users\\sanro\\OneDrive\\Escritorio\\clonacion sistematico 4\\Sistematico4\\PepitoSchoolDBApp.Infraestructure\\PepitoSchoolDBApp.Infraestructure.csproj": {
+              "projectPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\clonacion sistematico 4\\Sistematico4\\PepitoSchoolDBApp.Infraestructure\\PepitoSchoolDBApp.Infraestructure.csproj"
             }
           }
         }
