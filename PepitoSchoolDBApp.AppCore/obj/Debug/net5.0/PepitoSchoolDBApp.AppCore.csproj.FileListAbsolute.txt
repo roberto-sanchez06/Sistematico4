@@ -28,3 +28,18 @@ C:\Users\sanro\OneDrive\Escritorio\clonacion sistematico 4\Sistematico4\PepitoSc
 C:\Users\sanro\OneDrive\Escritorio\clonacion sistematico 4\Sistematico4\PepitoSchoolDBApp.AppCore\obj\Debug\net5.0\refint\PepitoSchoolDBApp.AppCore.dll
 C:\Users\sanro\OneDrive\Escritorio\clonacion sistematico 4\Sistematico4\PepitoSchoolDBApp.AppCore\obj\Debug\net5.0\PepitoSchoolDBApp.AppCore.pdb
 C:\Users\sanro\OneDrive\Escritorio\clonacion sistematico 4\Sistematico4\PepitoSchoolDBApp.AppCore\obj\Debug\net5.0\ref\PepitoSchoolDBApp.AppCore.dll
+C:\Users\sanro\OneDrive\Escritorio\clonaciones github\clon sistematico 4\Sistematico4\PepitoSchoolDBApp.AppCore\bin\Debug\net5.0\PepitoSchoolDBApp.AppCore.deps.json
+C:\Users\sanro\OneDrive\Escritorio\clonaciones github\clon sistematico 4\Sistematico4\PepitoSchoolDBApp.AppCore\bin\Debug\net5.0\PepitoSchoolDBApp.AppCore.dll
+C:\Users\sanro\OneDrive\Escritorio\clonaciones github\clon sistematico 4\Sistematico4\PepitoSchoolDBApp.AppCore\bin\Debug\net5.0\PepitoSchoolDBApp.AppCore.pdb
+C:\Users\sanro\OneDrive\Escritorio\clonaciones github\clon sistematico 4\Sistematico4\PepitoSchoolDBApp.AppCore\bin\Debug\net5.0\PepitoSchoolDBApp.Domain.dll
+C:\Users\sanro\OneDrive\Escritorio\clonaciones github\clon sistematico 4\Sistematico4\PepitoSchoolDBApp.AppCore\bin\Debug\net5.0\PepitoSchoolDBApp.Domain.pdb
+C:\Users\sanro\OneDrive\Escritorio\clonaciones github\clon sistematico 4\Sistematico4\PepitoSchoolDBApp.AppCore\obj\Debug\net5.0\PepitoSchoolDBApp.AppCore.csproj.AssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\clonaciones github\clon sistematico 4\Sistematico4\PepitoSchoolDBApp.AppCore\obj\Debug\net5.0\PepitoSchoolDBApp.AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanro\OneDrive\Escritorio\clonaciones github\clon sistematico 4\Sistematico4\PepitoSchoolDBApp.AppCore\obj\Debug\net5.0\PepitoSchoolDBApp.AppCore.AssemblyInfoInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\clonaciones github\clon sistematico 4\Sistematico4\PepitoSchoolDBApp.AppCore\obj\Debug\net5.0\PepitoSchoolDBApp.AppCore.AssemblyInfo.cs
+C:\Users\sanro\OneDrive\Escritorio\clonaciones github\clon sistematico 4\Sistematico4\PepitoSchoolDBApp.AppCore\obj\Debug\net5.0\PepitoSchoolDBApp.AppCore.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\clonaciones github\clon sistematico 4\Sistematico4\PepitoSchoolDBApp.AppCore\obj\Debug\net5.0\PepitoSchoolDBApp.AppCore.csproj.CopyComplete
+C:\Users\sanro\OneDrive\Escritorio\clonaciones github\clon sistematico 4\Sistematico4\PepitoSchoolDBApp.AppCore\obj\Debug\net5.0\PepitoSchoolDBApp.AppCore.dll
+C:\Users\sanro\OneDrive\Escritorio\clonaciones github\clon sistematico 4\Sistematico4\PepitoSchoolDBApp.AppCore\obj\Debug\net5.0\refint\PepitoSchoolDBApp.AppCore.dll
+C:\Users\sanro\OneDrive\Escritorio\clonaciones github\clon sistematico 4\Sistematico4\PepitoSchoolDBApp.AppCore\obj\Debug\net5.0\PepitoSchoolDBApp.AppCore.pdb
+C:\Users\sanro\OneDrive\Escritorio\clonaciones github\clon sistematico 4\Sistematico4\PepitoSchoolDBApp.AppCore\obj\Debug\net5.0\ref\PepitoSchoolDBApp.AppCore.dll

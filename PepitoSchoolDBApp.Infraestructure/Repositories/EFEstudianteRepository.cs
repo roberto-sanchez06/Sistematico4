@@ -31,7 +31,8 @@ namespace PepitoSchoolDBApp.Infraestructure.Repositories
                 {
                     throw new ArgumentNullException($"El estudiante con id {estudiante.Id} no se encuentra en la base de datos");
                 }
-                return (est.Estadistica + est.Matematica + est.Contabilidad + est.Programacion) / 4;
+                double resultado= (est.Estadistica + est.Matematica + est.Contabilidad + est.Programacion) / 4.0;
+                return Math.Round(resultado, 2);
             }
             catch (Exception)
             {

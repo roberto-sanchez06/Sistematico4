@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FPYrMjsUiBTn43SenjtiCpZvdCGoFOyS7+dtKHWi/Gzzp4tybwJjbjNRXp4Qmx6rICi49UQvXF0SN/WzwShoYQ==",
+  "dgSpecHash": "kS2frgW/k2Czu/GnDMJZCWPrIGir1lN5vyOJ89Bd8tCyRQ7aqdNicSOckDDiiY/+NH5yJJcK2ZH5H00zNJjWrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\clonacion sistematico 4\\Sistematico4\\PepitoSchoolDBApp.Domain\\PepitoSchoolDBApp.Domain.csproj",
+  "projectFilePath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\clonaciones github\\clon sistematico 4\\Sistematico4\\PepitoSchoolDBApp.Domain\\PepitoSchoolDBApp.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sanro\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\sanro\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
