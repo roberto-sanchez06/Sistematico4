@@ -1,0 +1,282 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp\\PepitoSchoolDBApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp.AppCore\\PepitoSchoolDBApp.AppCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp.AppCore\\PepitoSchoolDBApp.AppCore.csproj",
+        "projectName": "PepitoSchoolDBApp.AppCore",
+        "projectPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp.AppCore\\PepitoSchoolDBApp.AppCore.csproj",
+        "packagesPath": "C:\\Users\\sanro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp.AppCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sanro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp.Domain\\PepitoSchoolDBApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp.Domain\\PepitoSchoolDBApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp.Domain\\PepitoSchoolDBApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp.Domain\\PepitoSchoolDBApp.Domain.csproj",
+        "projectName": "PepitoSchoolDBApp.Domain",
+        "projectPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp.Domain\\PepitoSchoolDBApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\sanro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sanro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp.Infraestructure\\PepitoSchoolDBApp.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp.Infraestructure\\PepitoSchoolDBApp.Infraestructure.csproj",
+        "projectName": "PepitoSchoolDBApp.Infraestructure",
+        "projectPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp.Infraestructure\\PepitoSchoolDBApp.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\sanro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sanro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp.Domain\\PepitoSchoolDBApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp.Domain\\PepitoSchoolDBApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp\\PepitoSchoolDBApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp\\PepitoSchoolDBApp.csproj",
+        "projectName": "PepitoSchoolDBApp",
+        "projectPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp\\PepitoSchoolDBApp.csproj",
+        "packagesPath": "C:\\Users\\sanro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sanro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp.AppCore\\PepitoSchoolDBApp.AppCore.csproj": {
+                "projectPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp.AppCore\\PepitoSchoolDBApp.AppCore.csproj"
+              },
+              "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp.Infraestructure\\PepitoSchoolDBApp.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\sistematico 4\\PepitoSchoolDBApp\\PepitoSchoolDBApp.Infraestructure\\PepitoSchoolDBApp.Infraestructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

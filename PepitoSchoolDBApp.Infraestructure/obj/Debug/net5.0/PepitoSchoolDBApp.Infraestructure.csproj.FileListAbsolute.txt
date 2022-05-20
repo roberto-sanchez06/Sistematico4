@@ -1,0 +1,15 @@
+C:\Users\sanro\OneDrive\Escritorio\sistematico 4\PepitoSchoolDBApp\PepitoSchoolDBApp.Infraestructure\bin\Debug\net5.0\PepitoSchoolDBApp.Infraestructure.deps.json
+C:\Users\sanro\OneDrive\Escritorio\sistematico 4\PepitoSchoolDBApp\PepitoSchoolDBApp.Infraestructure\bin\Debug\net5.0\PepitoSchoolDBApp.Infraestructure.dll
+C:\Users\sanro\OneDrive\Escritorio\sistematico 4\PepitoSchoolDBApp\PepitoSchoolDBApp.Infraestructure\bin\Debug\net5.0\PepitoSchoolDBApp.Infraestructure.pdb
+C:\Users\sanro\OneDrive\Escritorio\sistematico 4\PepitoSchoolDBApp\PepitoSchoolDBApp.Infraestructure\bin\Debug\net5.0\PepitoSchoolDBApp.Domain.dll
+C:\Users\sanro\OneDrive\Escritorio\sistematico 4\PepitoSchoolDBApp\PepitoSchoolDBApp.Infraestructure\bin\Debug\net5.0\PepitoSchoolDBApp.Domain.pdb
+C:\Users\sanro\OneDrive\Escritorio\sistematico 4\PepitoSchoolDBApp\PepitoSchoolDBApp.Infraestructure\obj\Debug\net5.0\PepitoSchoolDBApp.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\sistematico 4\PepitoSchoolDBApp\PepitoSchoolDBApp.Infraestructure\obj\Debug\net5.0\PepitoSchoolDBApp.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanro\OneDrive\Escritorio\sistematico 4\PepitoSchoolDBApp\PepitoSchoolDBApp.Infraestructure\obj\Debug\net5.0\PepitoSchoolDBApp.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\sistematico 4\PepitoSchoolDBApp\PepitoSchoolDBApp.Infraestructure\obj\Debug\net5.0\PepitoSchoolDBApp.Infraestructure.AssemblyInfo.cs
+C:\Users\sanro\OneDrive\Escritorio\sistematico 4\PepitoSchoolDBApp\PepitoSchoolDBApp.Infraestructure\obj\Debug\net5.0\PepitoSchoolDBApp.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\sistematico 4\PepitoSchoolDBApp\PepitoSchoolDBApp.Infraestructure\obj\Debug\net5.0\PepitoSchoolDBApp.Infraestructure.csproj.CopyComplete
+C:\Users\sanro\OneDrive\Escritorio\sistematico 4\PepitoSchoolDBApp\PepitoSchoolDBApp.Infraestructure\obj\Debug\net5.0\PepitoSchoolDBApp.Infraestructure.dll
+C:\Users\sanro\OneDrive\Escritorio\sistematico 4\PepitoSchoolDBApp\PepitoSchoolDBApp.Infraestructure\obj\Debug\net5.0\refint\PepitoSchoolDBApp.Infraestructure.dll
+C:\Users\sanro\OneDrive\Escritorio\sistematico 4\PepitoSchoolDBApp\PepitoSchoolDBApp.Infraestructure\obj\Debug\net5.0\PepitoSchoolDBApp.Infraestructure.pdb
+C:\Users\sanro\OneDrive\Escritorio\sistematico 4\PepitoSchoolDBApp\PepitoSchoolDBApp.Infraestructure\obj\Debug\net5.0\ref\PepitoSchoolDBApp.Infraestructure.dll
